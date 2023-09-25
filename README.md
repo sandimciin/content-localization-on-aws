@@ -392,6 +392,8 @@ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
+TESTING MARKDOWN
 
+Follow the instructions to [Install Content Localization on AWS over an existing Media Insights on AWS stack](#option-1-install-content-localization-on-aws-over-an-existing-media-insights-on-aws-stack) 
 
-
+Use the instructions in previous sections to [build](#building-the-solution-from-source-code) and [deploy](#option-2-install-content-localization-on-aws-with-a-new-media-insights-on-aws-stack) Content Localization on AWS
