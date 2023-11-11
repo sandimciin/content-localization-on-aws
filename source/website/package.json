@@ -11,7 +11,7 @@
   "dependencies": {
     "aws-amplify": "5.3.11",
     "aws-amplify-vue": "2.1.9",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "bootstrap": "4.5.3",
     "bootstrap-vue": "2.21.2",
     "chart.js": "2.9.4",
